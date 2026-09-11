@@ -13,7 +13,7 @@ Graduate-level notes covering stochastic processes, stochastic calculus, numeric
 methods for stochastic differential equations, derivatives pricing, local volatility,
 variance products, volatility trading, and fixed-income models.
 
-[PDF](introduction-to-quantitative-finance.pdf)
+[PDF](intro-quant-finance.pdf)
 
 ### Variance swaps as benchmarks for calibrating stochastic volatility models
 
